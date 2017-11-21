@@ -31,5 +31,8 @@ def cmpr(data):
 d=sorted(s,key=cmpr)
 for b in d:
     print(b)
+'''
+http://www.pythoncentral.io/how-to-sort-a-list-tuple-or-object-with-sorted-in-python/
+'''
 
 
